@@ -1,0 +1,6 @@
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\BOL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\BOL.pdb
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.pdb

@@ -1,0 +1,9 @@
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\bin\Debug\DAL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\bin\Debug\DAL.pdb
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\obj\Debug\DAL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\obj\Debug\DAL.pdb
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\bin\Debug\BOL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\bin\Debug\BOL.pdb
+D:\personal\visualstudio\ASPNETMVC\linkhub\DAL\obj\Debug\DAL.csproj.CopyComplete
