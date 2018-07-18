@@ -1,22 +1,26 @@
-﻿List of Tasks
-
-*create solution with all projects 
-*create BOL with entity framework
-*add connection string in ui
-*create areas in mvc
-*common
-*user
-*admin
-*security
-*create all controllers in respective areasadd default index views
-*add default index viewsadd bootstrap
-*create browseurl viewscreate common layout
-*create DAL
-	-addurldb
-*create BLL
-	-add urlBS
-*update browseurl controllers
-*update browseurl views 
+﻿List of Tasks:
+-----------------------------------------------------------------------
+*create solution with all projects -completed
+*create BOL with entity framework -completed
+*add connection string in ui -completed
+*create areas in mvc - completed
+	-common
+	-user
+	-admin
+	-security
+*create all controllers in respective areasadd default index views -completed
+*add default index views - completed
+*add bootstrap  -completed
+*create browseurl views -completed
+*create common layout -completed
+*create DAL -completed
+	-addurldb -completed
+*create BLL -completed
+	-add urlBS -completes
+*update browseurl controllers -completed
+*update browseurl views -completed
+*sorting 
+*Paging
 *create submiturl control
 *form validations in BOL for browseurl
 *add scripts for client side validations

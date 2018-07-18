@@ -1,6 +1,11 @@
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\BOL.dll.config
 D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\BOL.dll
 D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\BOL.pdb
-D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\EntityFramework.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\EntityFramework.xml
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\bin\Debug\EntityFramework.SqlServer.xml
 D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.csproj.CopyComplete
 D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.dll
 D:\personal\visualstudio\ASPNETMVC\linkhub\BOL\obj\Debug\BOL.pdb

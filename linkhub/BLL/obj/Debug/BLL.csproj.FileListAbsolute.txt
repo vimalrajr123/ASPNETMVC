@@ -9,3 +9,6 @@ D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\DAL.dll
 D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\BOL.pdb
 D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\DAL.pdb
 D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\EntityFramework.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\BOL.dll.config
+D:\personal\visualstudio\ASPNETMVC\linkhub\BLL\bin\Debug\EntityFramework.xml

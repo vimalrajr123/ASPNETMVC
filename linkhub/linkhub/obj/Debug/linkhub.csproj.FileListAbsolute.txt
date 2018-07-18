@@ -73,3 +73,10 @@ D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\BLL.dll
 D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\BOL.dll
 D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\BLL.pdb
 D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\BOL.pdb
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\EntityFramework.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\BOL.dll.config
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\EntityFramework.xml
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\EntityFramework.SqlServer.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\EntityFramework.SqlServer.xml
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\DAL.dll
+D:\personal\visualstudio\ASPNETMVC\linkhub\linkhub\bin\DAL.pdb
